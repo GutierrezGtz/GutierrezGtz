@@ -12,7 +12,6 @@
   <img align="center" alt="Gut-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Gut-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
-  <img align="right" alt="Gut-pic" height="150" style="border-radius:50px;" src="https://github.com/GutierrezGtz/GutierrezGtz/blob/main/avatar.PNG">
 </div>
   
   ##
