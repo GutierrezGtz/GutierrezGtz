@@ -1,4 +1,4 @@
-## Hello i'm Matheus Gutierrez. i'm Software Enginner.
+## Hello i'm Matheus Gutierrez, Software Enginner.
 <div align="center">
   <a href="https://github.com/stephaniesantosss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GutierrezGtz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
